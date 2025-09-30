@@ -16,7 +16,7 @@ from .orm import (
     TaskCreateRspSchema,
 )
 
-__version__ = "0.0.3"
+__version__ = "0.0.4"
 
 API_BASE_URL = "https://member.bilibili.com/x/bcut/rubick-interface"
 
